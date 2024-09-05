@@ -73,7 +73,7 @@ migrations/
 .webassets-cache
 .vscode/
 
-
+.idea/
 # PyBuilder
 target/
 
